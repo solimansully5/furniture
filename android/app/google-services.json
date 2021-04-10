@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914980942849",
+    "firebase_url": "https://fir-d8035.firebaseio.com",
+    "project_id": "fir-d8035",
+    "storage_bucket": "fir-d8035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914980942849:android:116344d16b422d82007c00",
+        "android_client_info": {
+          "package_name": "com.rokna.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914980942849-1eootiiuaa36f5b4uf2c076t9qvfag3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXHHmNtAC-9HhQsQjbyIpr1tAy1Zp6hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914980942849-1eootiiuaa36f5b4uf2c076t9qvfag3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
